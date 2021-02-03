@@ -3314,3 +3314,13 @@ input, select, textarea {
 			}
 
 	}
+
+.res-bot {
+	margin-bottom: 0px !important;
+}
+
+.size-img {
+	height: 150px;
+	width: 170px !important;
+    margin-left: 120px;
+}
